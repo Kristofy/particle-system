@@ -1,0 +1,7 @@
+*.cbp
+!Simulation.cbp
+
+*.depend
+*.save
+
+*.o
